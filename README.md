@@ -4,14 +4,15 @@ Author: Miguel J. Monasor
 
 ## Prerequisites
 
-Install Gradle
-Java 8
+1. Install Gradle
+2. Java 8
+
 ## Execution
 
-Run 'gradle build' at the top level folder
-Run 'gradle run'
+1. Run 'gradle build' at the top level folder
+2. Run 'gradle run'
 
 ## Javadoc
 
-Run 'gradle javadoc'
-Javadocs can then be found at build/docs
+1. Run 'gradle javadoc'
+2. Javadocs can then be found at build/docs
